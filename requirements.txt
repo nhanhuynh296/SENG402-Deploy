@@ -1,0 +1,13 @@
+pytest
+pytest-cov
+Flask
+Flask-Cors
+pandas
+numpy
+pyarrow
+tensorflow
+werkzeug
+pillow
+h5py
+tqdm
+opencv-python
